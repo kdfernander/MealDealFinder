@@ -1,0 +1,23 @@
+[
+  {
+    "Item Name":"Tomato",
+    "Category":"Vegetable",
+    "Quantity":1,
+    "Unit":"kg",
+    "Restock Status":"In Stock"
+  },
+  {
+    "Item Name":"Ribeye",
+    "Category":"Meat",
+    "Quantity":1,
+    "Unit":"kg",
+    "Restock Status":"In Stock"
+  },
+  {
+    "Item Name":"Broccoli",
+    "Category":"Vegetable",
+    "Quantity":1,
+    "Unit":"pcs",
+    "Restock Status":"In Stock"
+  }
+]
